@@ -1,0 +1,22 @@
+{
+  "name": "hubot-thecat",
+  "description": "A hubot script to interact with The Cat API.",
+  "version": "1.0.0",
+  "author": "tenten0213 <takehito.0213@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tenten0213/hubot-thecat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tenten0213/hubot-thecat/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6",
+    "cheerio": "~0.13.1"
+  }
+}
